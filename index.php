@@ -7,6 +7,8 @@
 
 </head>
 <body>
+<h1>My Project 1 will be here</h1>
+<img src='images/rainbow.png' alt='MyRainbow'>
 
 	<?php
 	echo 'Hello World! You are visiting Diana ';
