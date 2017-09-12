@@ -1,4 +1,5 @@
-﻿<!DOCTYPE html>
+<?php require('quoteLogic.php'); ?>
+<!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8" />
@@ -42,20 +43,10 @@
                      </p>
             </section>
             <section id="info">
-                <h3>
-                    Daily quote by Mark Twain:</h3>
+                <h3>Daily quote by Mark Twain:</h3>
 
-                    <?php
-                    $phrases = [
-                        'The secret of getting ahead is getting started!',
-                        'It is better to keep your mouth closed and let people think you are a fool than to open it and remove all doubt!',
-                        'Good friends, good books and a sleepy conscience: this is the ideal life!'
-                    ];
+                  <p> <?php echo $phrase; ?> </p>
 
-                    shuffle($phrases);
-                    $phrase = array_pop($phrases);
-                        echo "$phrase ";
-                    ?>
             </section>
         </article>
         <footer>
