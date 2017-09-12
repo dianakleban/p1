@@ -28,16 +28,15 @@
                     Diana Kleban</h2>
                 <p>
                     Diana was born in Moscow, Russia, and that’s where her educational career began. She
-                    attended Moscow Pedagogical University and completed her degree in New York.
+                    attended Moscow Pedagogical University and completed her degree in New York. Currently, she lives in CT and WI.
                 </p>
                 <p>
                     Everywhere Diana goes, she is looking for an opportunity to utilize her passions
-                    for teaching and web development. Always full of ideas and energy, she taught adults and kids in schools,
-                    writing centers, summer camps, entertainment events and public libraries.
-                    She worked as a teacher, consultant, accountant, actuary, and a web developer.</p>
-                    <p>She has been a web developer for more than 12 years using C++ and C# ASP.net.
-                    Currently she works on SharePoint technology and utilizes knowledge of javascript and client side development.
-                  </p>
+                    for teaching and web development. Always full of ideas and energy, she has worked as a teacher, consultant, accountant, actuary, and a web developer.
+                </p>
+                <p>She has been a server web developer for more than 13 years using C++ and C# ASP.net, but never used XAMPP, github, cmder, DigitalOcean or PHP.
+                    Currently she works on SharePoint technology and utilizes the knowledge of javascript and client side development.
+                </p>
 
                 <p>Her hobbies: <b>reading, traveling, and learning new things</b> are the source of her inspiration as a teacher and a developer.
                      </p>
@@ -53,7 +52,7 @@
             <p>
                 <strong>Diana Kleban</strong> West Hartford, CT
                 <br />
-                860-977-7074 &nbsp; <a href="mailto:deanaemily1@yahoo.com">deanaemily1@yahoo.com</a>
+                <a href="mailto:dik548@g.harvard.com">dik548@g.harvard.com</a>
                 <br />
                 Copyright @2017. All Rights Reserved.
             </p>
